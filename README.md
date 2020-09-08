@@ -1,2 +1,3 @@
 # Cloud animation effects
-<a href='https://viktoriya-druzhkova.github.io/Cloud_Animation_Effects/'>Watch here</a>
+
+<a href='https://druzhkova.github.io/Cloud-animation-effects/'>Watch here</a>
